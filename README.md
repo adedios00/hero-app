@@ -8,7 +8,7 @@ Esta aplicación no necesita instalación.
 
 ## Ver ejemplo en vivo
 
-[Hero APP](https://paniser.github.io/marvel)
+[Hero APP](https://paniser.github.io/hero-app/)
 
 ## Autores ✒️
 
